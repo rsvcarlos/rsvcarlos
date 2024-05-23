@@ -1,0 +1,91 @@
+ h1 a { 
+    color: #F4A460;
+    text-decoration: none;
+    }
+
+    .place h2 {
+        border-bottom: 1px dashed #000000;
+        margin: 0;
+    }
+    .place a {
+        color: #b78c56;
+        font-weight: bold;
+        }
+body {
+font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana,
+sans-serif;
+line-height: 1.6;
+
+}
+ 
+ .place {
+    color: #000000;
+    background-color: #E0FFFF;
+    border-color: #f3a514e5 #ca9e0ee1 #ca9e0ee1 #ca9e0ee1;
+    border: 1px solid #87CEFA;
+    margin-bottom: 20px;
+    padding: 10px;
+    }
+
+
+.container {
+margin: 0 auto;
+width: 960px;
+}
+
+.place {
+border-color: #173 #216 #230 #CCC;
+border: 1px solid #87CEFA;
+margin-bottom: 10px;
+padding: 5px;
+}
+.place h2 {
+border-bottom: 1px dashed #87CEFA;
+margin: 0;
+}
+body {
+background: #FFF1D6 url(images/noise.png);
+font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana,
+sans-serif;
+line-height: 1.6;
+}
+
+.place img {
+border: 1px solid #87CEFA;
+float: left;
+margin: 12px 12px 0 0;
+padding: 2px;
+width: 180px;
+}
+.clear {
+clear: both;
+}
+.footer {
+font-size: 12px;
+text-align: center;
+}
+.sidenote {
+background-color: #87CEFA;
+border: 1.5px solid #87CEFA;
+padding: 10px;
+}
+.places {
+float: left;
+width: 660px;
+}
+.sidenote {
+background-color: #E0FFFF;
+border: 1.5px solid #87CEFA;
+float: right;
+padding: 12px;
+width: 260px;
+margin-bottom: 20px;
+}
+.sidenote h3 {
+font-size: 16px;
+margin-top: 0;
+}
+.sidenote ol {
+	font-size: 15px;
+}
+	
